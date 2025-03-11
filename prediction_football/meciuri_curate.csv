@@ -1,0 +1,272 @@
+Home Team,Away Team,Date,Status,Score,Home Goals,Away Goals
+Manchester United FC,Fulham FC,2024-08-16T19:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Ipswich Town FC,Liverpool FC,2024-08-17T11:30:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Arsenal FC,Wolverhampton Wanderers FC,2024-08-17T14:00:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+Everton FC,Brighton & Hove Albion FC,2024-08-17T14:00:00Z,FINISHED,"{'home': 0, 'away': 3}",0,3
+Newcastle United FC,Southampton FC,2024-08-17T14:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Nottingham Forest FC,AFC Bournemouth,2024-08-17T14:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+West Ham United FC,Aston Villa FC,2024-08-17T16:30:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Brentford FC,Crystal Palace FC,2024-08-18T13:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Chelsea FC,Manchester City FC,2024-08-18T15:30:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Leicester City FC,Tottenham Hotspur FC,2024-08-19T19:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Brighton & Hove Albion FC,Manchester United FC,2024-08-24T11:30:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Crystal Palace FC,West Ham United FC,2024-08-24T14:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Fulham FC,Leicester City FC,2024-08-24T14:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Manchester City FC,Ipswich Town FC,2024-08-24T14:00:00Z,FINISHED,"{'home': 4, 'away': 1}",4,1
+Southampton FC,Nottingham Forest FC,2024-08-24T14:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Tottenham Hotspur FC,Everton FC,2024-08-24T14:00:00Z,FINISHED,"{'home': 4, 'away': 0}",4,0
+Aston Villa FC,Arsenal FC,2024-08-24T16:30:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+AFC Bournemouth,Newcastle United FC,2024-08-25T13:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Wolverhampton Wanderers FC,Chelsea FC,2024-08-25T13:00:00Z,FINISHED,"{'home': 2, 'away': 6}",2,6
+Liverpool FC,Brentford FC,2024-08-25T15:30:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+Arsenal FC,Brighton & Hove Albion FC,2024-08-31T11:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Brentford FC,Southampton FC,2024-08-31T14:00:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Everton FC,AFC Bournemouth,2024-08-31T14:00:00Z,FINISHED,"{'home': 2, 'away': 3}",2,3
+Ipswich Town FC,Fulham FC,2024-08-31T14:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Leicester City FC,Aston Villa FC,2024-08-31T14:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Nottingham Forest FC,Wolverhampton Wanderers FC,2024-08-31T14:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+West Ham United FC,Manchester City FC,2024-08-31T16:30:00Z,FINISHED,"{'home': 1, 'away': 3}",1,3
+Chelsea FC,Crystal Palace FC,2024-09-01T12:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Newcastle United FC,Tottenham Hotspur FC,2024-09-01T12:30:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Manchester United FC,Liverpool FC,2024-09-01T15:00:00Z,FINISHED,"{'home': 0, 'away': 3}",0,3
+Southampton FC,Manchester United FC,2024-09-14T11:30:00Z,FINISHED,"{'home': 0, 'away': 3}",0,3
+Brighton & Hove Albion FC,Ipswich Town FC,2024-09-14T14:00:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Crystal Palace FC,Leicester City FC,2024-09-14T14:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Fulham FC,West Ham United FC,2024-09-14T14:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Liverpool FC,Nottingham Forest FC,2024-09-14T14:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Manchester City FC,Brentford FC,2024-09-14T14:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Aston Villa FC,Everton FC,2024-09-14T16:30:00Z,FINISHED,"{'home': 3, 'away': 2}",3,2
+AFC Bournemouth,Chelsea FC,2024-09-14T19:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Tottenham Hotspur FC,Arsenal FC,2024-09-15T13:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Wolverhampton Wanderers FC,Newcastle United FC,2024-09-15T15:30:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+West Ham United FC,Chelsea FC,2024-09-21T11:30:00Z,FINISHED,"{'home': 0, 'away': 3}",0,3
+Aston Villa FC,Wolverhampton Wanderers FC,2024-09-21T14:00:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Fulham FC,Newcastle United FC,2024-09-21T14:00:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Leicester City FC,Everton FC,2024-09-21T14:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Liverpool FC,AFC Bournemouth,2024-09-21T14:00:00Z,FINISHED,"{'home': 3, 'away': 0}",3,0
+Southampton FC,Ipswich Town FC,2024-09-21T14:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Tottenham Hotspur FC,Brentford FC,2024-09-21T14:00:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Crystal Palace FC,Manchester United FC,2024-09-21T16:30:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Brighton & Hove Albion FC,Nottingham Forest FC,2024-09-22T13:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Manchester City FC,Arsenal FC,2024-09-22T15:30:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Newcastle United FC,Manchester City FC,2024-09-28T11:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Arsenal FC,Leicester City FC,2024-09-28T14:00:00Z,FINISHED,"{'home': 4, 'away': 2}",4,2
+Brentford FC,West Ham United FC,2024-09-28T14:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Chelsea FC,Brighton & Hove Albion FC,2024-09-28T14:00:00Z,FINISHED,"{'home': 4, 'away': 2}",4,2
+Everton FC,Crystal Palace FC,2024-09-28T14:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Nottingham Forest FC,Fulham FC,2024-09-28T14:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Wolverhampton Wanderers FC,Liverpool FC,2024-09-28T16:30:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Ipswich Town FC,Aston Villa FC,2024-09-29T13:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Manchester United FC,Tottenham Hotspur FC,2024-09-29T15:30:00Z,FINISHED,"{'home': 0, 'away': 3}",0,3
+AFC Bournemouth,Southampton FC,2024-09-30T19:00:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Crystal Palace FC,Liverpool FC,2024-10-05T11:30:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Arsenal FC,Southampton FC,2024-10-05T14:00:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Brentford FC,Wolverhampton Wanderers FC,2024-10-05T14:00:00Z,FINISHED,"{'home': 5, 'away': 3}",5,3
+Leicester City FC,AFC Bournemouth,2024-10-05T14:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Manchester City FC,Fulham FC,2024-10-05T14:00:00Z,FINISHED,"{'home': 3, 'away': 2}",3,2
+West Ham United FC,Ipswich Town FC,2024-10-05T14:00:00Z,FINISHED,"{'home': 4, 'away': 1}",4,1
+Everton FC,Newcastle United FC,2024-10-05T16:30:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Aston Villa FC,Manchester United FC,2024-10-06T13:00:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Chelsea FC,Nottingham Forest FC,2024-10-06T13:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Brighton & Hove Albion FC,Tottenham Hotspur FC,2024-10-06T15:30:00Z,FINISHED,"{'home': 3, 'away': 2}",3,2
+Tottenham Hotspur FC,West Ham United FC,2024-10-19T11:30:00Z,FINISHED,"{'home': 4, 'away': 1}",4,1
+Fulham FC,Aston Villa FC,2024-10-19T14:00:00Z,FINISHED,"{'home': 1, 'away': 3}",1,3
+Ipswich Town FC,Everton FC,2024-10-19T14:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Manchester United FC,Brentford FC,2024-10-19T14:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Newcastle United FC,Brighton & Hove Albion FC,2024-10-19T14:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Southampton FC,Leicester City FC,2024-10-19T14:00:00Z,FINISHED,"{'home': 2, 'away': 3}",2,3
+AFC Bournemouth,Arsenal FC,2024-10-19T16:30:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+Wolverhampton Wanderers FC,Manchester City FC,2024-10-20T13:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Liverpool FC,Chelsea FC,2024-10-20T15:30:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Nottingham Forest FC,Crystal Palace FC,2024-10-21T19:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Leicester City FC,Nottingham Forest FC,2024-10-25T19:00:00Z,FINISHED,"{'home': 1, 'away': 3}",1,3
+Aston Villa FC,AFC Bournemouth,2024-10-26T14:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Brentford FC,Ipswich Town FC,2024-10-26T14:00:00Z,FINISHED,"{'home': 4, 'away': 3}",4,3
+Brighton & Hove Albion FC,Wolverhampton Wanderers FC,2024-10-26T14:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Manchester City FC,Southampton FC,2024-10-26T14:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Everton FC,Fulham FC,2024-10-26T16:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Chelsea FC,Newcastle United FC,2024-10-27T14:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Crystal Palace FC,Tottenham Hotspur FC,2024-10-27T14:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+West Ham United FC,Manchester United FC,2024-10-27T14:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Arsenal FC,Liverpool FC,2024-10-27T16:30:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Newcastle United FC,Arsenal FC,2024-11-02T12:30:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+AFC Bournemouth,Manchester City FC,2024-11-02T15:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Ipswich Town FC,Leicester City FC,2024-11-02T15:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Liverpool FC,Brighton & Hove Albion FC,2024-11-02T15:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Nottingham Forest FC,West Ham United FC,2024-11-02T15:00:00Z,FINISHED,"{'home': 3, 'away': 0}",3,0
+Southampton FC,Everton FC,2024-11-02T15:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Wolverhampton Wanderers FC,Crystal Palace FC,2024-11-02T17:30:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Tottenham Hotspur FC,Aston Villa FC,2024-11-03T14:00:00Z,FINISHED,"{'home': 4, 'away': 1}",4,1
+Manchester United FC,Chelsea FC,2024-11-03T16:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Fulham FC,Brentford FC,2024-11-04T20:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Brentford FC,AFC Bournemouth,2024-11-09T15:00:00Z,FINISHED,"{'home': 3, 'away': 2}",3,2
+Crystal Palace FC,Fulham FC,2024-11-09T15:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+West Ham United FC,Everton FC,2024-11-09T15:00:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Wolverhampton Wanderers FC,Southampton FC,2024-11-09T15:00:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+Brighton & Hove Albion FC,Manchester City FC,2024-11-09T17:30:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Liverpool FC,Aston Villa FC,2024-11-09T20:00:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+Manchester United FC,Leicester City FC,2024-11-10T14:00:00Z,FINISHED,"{'home': 3, 'away': 0}",3,0
+Nottingham Forest FC,Newcastle United FC,2024-11-10T14:00:00Z,FINISHED,"{'home': 1, 'away': 3}",1,3
+Tottenham Hotspur FC,Ipswich Town FC,2024-11-10T14:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Chelsea FC,Arsenal FC,2024-11-10T16:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Leicester City FC,Chelsea FC,2024-11-23T12:30:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+AFC Bournemouth,Brighton & Hove Albion FC,2024-11-23T15:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Arsenal FC,Nottingham Forest FC,2024-11-23T15:00:00Z,FINISHED,"{'home': 3, 'away': 0}",3,0
+Aston Villa FC,Crystal Palace FC,2024-11-23T15:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Everton FC,Brentford FC,2024-11-23T15:00:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Fulham FC,Wolverhampton Wanderers FC,2024-11-23T15:00:00Z,FINISHED,"{'home': 1, 'away': 4}",1,4
+Manchester City FC,Tottenham Hotspur FC,2024-11-23T17:30:00Z,FINISHED,"{'home': 0, 'away': 4}",0,4
+Southampton FC,Liverpool FC,2024-11-24T14:00:00Z,FINISHED,"{'home': 2, 'away': 3}",2,3
+Ipswich Town FC,Manchester United FC,2024-11-24T16:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Newcastle United FC,West Ham United FC,2024-11-25T20:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Brighton & Hove Albion FC,Southampton FC,2024-11-29T20:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Brentford FC,Leicester City FC,2024-11-30T15:00:00Z,FINISHED,"{'home': 4, 'away': 1}",4,1
+Crystal Palace FC,Newcastle United FC,2024-11-30T15:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Nottingham Forest FC,Ipswich Town FC,2024-11-30T15:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Wolverhampton Wanderers FC,AFC Bournemouth,2024-11-30T15:00:00Z,FINISHED,"{'home': 2, 'away': 4}",2,4
+West Ham United FC,Arsenal FC,2024-11-30T17:30:00Z,FINISHED,"{'home': 2, 'away': 5}",2,5
+Chelsea FC,Aston Villa FC,2024-12-01T13:30:00Z,FINISHED,"{'home': 3, 'away': 0}",3,0
+Manchester United FC,Everton FC,2024-12-01T13:30:00Z,FINISHED,"{'home': 4, 'away': 0}",4,0
+Tottenham Hotspur FC,Fulham FC,2024-12-01T13:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Liverpool FC,Manchester City FC,2024-12-01T16:00:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+Ipswich Town FC,Crystal Palace FC,2024-12-03T19:30:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Leicester City FC,West Ham United FC,2024-12-03T20:15:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Everton FC,Wolverhampton Wanderers FC,2024-12-04T19:30:00Z,FINISHED,"{'home': 4, 'away': 0}",4,0
+Manchester City FC,Nottingham Forest FC,2024-12-04T19:30:00Z,FINISHED,"{'home': 3, 'away': 0}",3,0
+Newcastle United FC,Liverpool FC,2024-12-04T19:30:00Z,FINISHED,"{'home': 3, 'away': 3}",3,3
+Southampton FC,Chelsea FC,2024-12-04T19:30:00Z,FINISHED,"{'home': 1, 'away': 5}",1,5
+Arsenal FC,Manchester United FC,2024-12-04T20:15:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+Aston Villa FC,Brentford FC,2024-12-04T20:15:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Fulham FC,Brighton & Hove Albion FC,2024-12-05T19:30:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+AFC Bournemouth,Tottenham Hotspur FC,2024-12-05T20:15:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Aston Villa FC,Southampton FC,2024-12-07T15:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Brentford FC,Newcastle United FC,2024-12-07T15:00:00Z,FINISHED,"{'home': 4, 'away': 2}",4,2
+Crystal Palace FC,Manchester City FC,2024-12-07T15:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Manchester United FC,Nottingham Forest FC,2024-12-07T17:30:00Z,FINISHED,"{'home': 2, 'away': 3}",2,3
+Fulham FC,Arsenal FC,2024-12-08T14:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Ipswich Town FC,AFC Bournemouth,2024-12-08T14:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Leicester City FC,Brighton & Hove Albion FC,2024-12-08T14:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Tottenham Hotspur FC,Chelsea FC,2024-12-08T16:30:00Z,FINISHED,"{'home': 3, 'away': 4}",3,4
+West Ham United FC,Wolverhampton Wanderers FC,2024-12-09T20:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Arsenal FC,Everton FC,2024-12-14T15:00:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Liverpool FC,Fulham FC,2024-12-14T15:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Newcastle United FC,Leicester City FC,2024-12-14T15:00:00Z,FINISHED,"{'home': 4, 'away': 0}",4,0
+Wolverhampton Wanderers FC,Ipswich Town FC,2024-12-14T15:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Nottingham Forest FC,Aston Villa FC,2024-12-14T17:30:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Brighton & Hove Albion FC,Crystal Palace FC,2024-12-15T14:00:00Z,FINISHED,"{'home': 1, 'away': 3}",1,3
+Manchester City FC,Manchester United FC,2024-12-15T16:30:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Chelsea FC,Brentford FC,2024-12-15T19:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Southampton FC,Tottenham Hotspur FC,2024-12-15T19:00:00Z,FINISHED,"{'home': 0, 'away': 5}",0,5
+AFC Bournemouth,West Ham United FC,2024-12-16T20:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Aston Villa FC,Manchester City FC,2024-12-21T12:30:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Brentford FC,Nottingham Forest FC,2024-12-21T15:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Ipswich Town FC,Newcastle United FC,2024-12-21T15:00:00Z,FINISHED,"{'home': 0, 'away': 4}",0,4
+West Ham United FC,Brighton & Hove Albion FC,2024-12-21T15:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Crystal Palace FC,Arsenal FC,2024-12-21T17:30:00Z,FINISHED,"{'home': 1, 'away': 5}",1,5
+Everton FC,Chelsea FC,2024-12-22T14:00:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Fulham FC,Southampton FC,2024-12-22T14:00:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Leicester City FC,Wolverhampton Wanderers FC,2024-12-22T14:00:00Z,FINISHED,"{'home': 0, 'away': 3}",0,3
+Manchester United FC,AFC Bournemouth,2024-12-22T14:00:00Z,FINISHED,"{'home': 0, 'away': 3}",0,3
+Tottenham Hotspur FC,Liverpool FC,2024-12-22T16:30:00Z,FINISHED,"{'home': 3, 'away': 6}",3,6
+Manchester City FC,Everton FC,2024-12-26T12:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+AFC Bournemouth,Crystal Palace FC,2024-12-26T15:00:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Chelsea FC,Fulham FC,2024-12-26T15:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Newcastle United FC,Aston Villa FC,2024-12-26T15:00:00Z,FINISHED,"{'home': 3, 'away': 0}",3,0
+Nottingham Forest FC,Tottenham Hotspur FC,2024-12-26T15:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Southampton FC,West Ham United FC,2024-12-26T15:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Wolverhampton Wanderers FC,Manchester United FC,2024-12-26T17:30:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+Liverpool FC,Leicester City FC,2024-12-26T20:00:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Brighton & Hove Albion FC,Brentford FC,2024-12-27T19:30:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Arsenal FC,Ipswich Town FC,2024-12-27T20:15:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Leicester City FC,Manchester City FC,2024-12-29T14:30:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Crystal Palace FC,Southampton FC,2024-12-29T15:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Everton FC,Nottingham Forest FC,2024-12-29T15:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Fulham FC,AFC Bournemouth,2024-12-29T15:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Tottenham Hotspur FC,Wolverhampton Wanderers FC,2024-12-29T15:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+West Ham United FC,Liverpool FC,2024-12-29T17:15:00Z,FINISHED,"{'home': 0, 'away': 5}",0,5
+Aston Villa FC,Brighton & Hove Albion FC,2024-12-30T19:45:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Ipswich Town FC,Chelsea FC,2024-12-30T19:45:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+Manchester United FC,Newcastle United FC,2024-12-30T20:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Brentford FC,Arsenal FC,2025-01-01T17:30:00Z,FINISHED,"{'home': 1, 'away': 3}",1,3
+Tottenham Hotspur FC,Newcastle United FC,2025-01-04T12:30:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Southampton FC,Brentford FC,2025-01-04T15:00:00Z,FINISHED,"{'home': 0, 'away': 5}",0,5
+Crystal Palace FC,Chelsea FC,2025-01-04T15:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+AFC Bournemouth,Everton FC,2025-01-04T15:00:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Aston Villa FC,Leicester City FC,2025-01-04T15:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Manchester City FC,West Ham United FC,2025-01-04T15:00:00Z,FINISHED,"{'home': 4, 'away': 1}",4,1
+Brighton & Hove Albion FC,Arsenal FC,2025-01-04T17:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Fulham FC,Ipswich Town FC,2025-01-05T14:00:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Liverpool FC,Manchester United FC,2025-01-05T16:30:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Wolverhampton Wanderers FC,Nottingham Forest FC,2025-01-06T20:00:00Z,FINISHED,"{'home': 0, 'away': 3}",0,3
+West Ham United FC,Fulham FC,2025-01-14T19:30:00Z,FINISHED,"{'home': 3, 'away': 2}",3,2
+Brentford FC,Manchester City FC,2025-01-14T19:30:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Chelsea FC,AFC Bournemouth,2025-01-14T19:30:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Nottingham Forest FC,Liverpool FC,2025-01-14T20:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Everton FC,Aston Villa FC,2025-01-15T19:30:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Leicester City FC,Crystal Palace FC,2025-01-15T19:30:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Newcastle United FC,Wolverhampton Wanderers FC,2025-01-15T19:30:00Z,FINISHED,"{'home': 3, 'away': 0}",3,0
+Arsenal FC,Tottenham Hotspur FC,2025-01-15T20:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Ipswich Town FC,Brighton & Hove Albion FC,2025-01-16T19:30:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Manchester United FC,Southampton FC,2025-01-16T20:00:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Newcastle United FC,AFC Bournemouth,2025-01-18T12:30:00Z,FINISHED,"{'home': 1, 'away': 4}",1,4
+West Ham United FC,Crystal Palace FC,2025-01-18T15:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Leicester City FC,Fulham FC,2025-01-18T15:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Brentford FC,Liverpool FC,2025-01-18T15:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Arsenal FC,Aston Villa FC,2025-01-18T17:30:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Manchester United FC,Brighton & Hove Albion FC,2025-01-19T14:00:00Z,FINISHED,"{'home': 1, 'away': 3}",1,3
+Nottingham Forest FC,Southampton FC,2025-01-19T14:00:00Z,FINISHED,"{'home': 3, 'away': 2}",3,2
+Everton FC,Tottenham Hotspur FC,2025-01-19T14:00:00Z,FINISHED,"{'home': 3, 'away': 2}",3,2
+Ipswich Town FC,Manchester City FC,2025-01-19T16:30:00Z,FINISHED,"{'home': 0, 'away': 6}",0,6
+Chelsea FC,Wolverhampton Wanderers FC,2025-01-20T20:00:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Liverpool FC,Ipswich Town FC,2025-01-25T15:00:00Z,FINISHED,"{'home': 4, 'away': 1}",4,1
+Wolverhampton Wanderers FC,Arsenal FC,2025-01-25T15:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Brighton & Hove Albion FC,Everton FC,2025-01-25T15:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Southampton FC,Newcastle United FC,2025-01-25T15:00:00Z,FINISHED,"{'home': 1, 'away': 3}",1,3
+AFC Bournemouth,Nottingham Forest FC,2025-01-25T15:00:00Z,FINISHED,"{'home': 5, 'away': 0}",5,0
+Manchester City FC,Chelsea FC,2025-01-25T17:30:00Z,FINISHED,"{'home': 3, 'away': 1}",3,1
+Crystal Palace FC,Brentford FC,2025-01-26T14:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Tottenham Hotspur FC,Leicester City FC,2025-01-26T14:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Aston Villa FC,West Ham United FC,2025-01-26T16:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Fulham FC,Manchester United FC,2025-01-26T19:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Nottingham Forest FC,Brighton & Hove Albion FC,2025-02-01T12:30:00Z,FINISHED,"{'home': 7, 'away': 0}",7,0
+Newcastle United FC,Fulham FC,2025-02-01T15:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Everton FC,Leicester City FC,2025-02-01T15:00:00Z,FINISHED,"{'home': 4, 'away': 0}",4,0
+AFC Bournemouth,Liverpool FC,2025-02-01T15:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Ipswich Town FC,Southampton FC,2025-02-01T15:00:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Wolverhampton Wanderers FC,Aston Villa FC,2025-02-01T17:30:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+Manchester United FC,Crystal Palace FC,2025-02-02T14:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Brentford FC,Tottenham Hotspur FC,2025-02-02T14:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Arsenal FC,Manchester City FC,2025-02-02T16:30:00Z,FINISHED,"{'home': 5, 'away': 1}",5,1
+Chelsea FC,West Ham United FC,2025-02-03T20:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Everton FC,Liverpool FC,2025-02-12T19:30:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Brighton & Hove Albion FC,Chelsea FC,2025-02-14T20:00:00Z,FINISHED,"{'home': 3, 'away': 0}",3,0
+Leicester City FC,Arsenal FC,2025-02-15T12:30:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Southampton FC,AFC Bournemouth,2025-02-15T15:00:00Z,FINISHED,"{'home': 1, 'away': 3}",1,3
+West Ham United FC,Brentford FC,2025-02-15T15:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Aston Villa FC,Ipswich Town FC,2025-02-15T15:00:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Manchester City FC,Newcastle United FC,2025-02-15T15:00:00Z,FINISHED,"{'home': 4, 'away': 0}",4,0
+Fulham FC,Nottingham Forest FC,2025-02-15T15:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Crystal Palace FC,Everton FC,2025-02-15T17:30:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Liverpool FC,Wolverhampton Wanderers FC,2025-02-16T14:00:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Tottenham Hotspur FC,Manchester United FC,2025-02-16T16:30:00Z,FINISHED,"{'home': 1, 'away': 0}",1,0
+Aston Villa FC,Liverpool FC,2025-02-19T19:30:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Leicester City FC,Brentford FC,2025-02-21T20:00:00Z,FINISHED,"{'home': 0, 'away': 4}",0,4
+Everton FC,Manchester United FC,2025-02-22T12:30:00Z,FINISHED,"{'home': 2, 'away': 2}",2,2
+Ipswich Town FC,Tottenham Hotspur FC,2025-02-22T15:00:00Z,FINISHED,"{'home': 1, 'away': 4}",1,4
+Fulham FC,Crystal Palace FC,2025-02-22T15:00:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Arsenal FC,West Ham United FC,2025-02-22T15:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+AFC Bournemouth,Wolverhampton Wanderers FC,2025-02-22T15:00:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Southampton FC,Brighton & Hove Albion FC,2025-02-22T15:00:00Z,FINISHED,"{'home': 0, 'away': 4}",0,4
+Aston Villa FC,Chelsea FC,2025-02-22T17:30:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Newcastle United FC,Nottingham Forest FC,2025-02-23T14:00:00Z,FINISHED,"{'home': 4, 'away': 3}",4,3
+Manchester City FC,Liverpool FC,2025-02-23T16:30:00Z,FINISHED,"{'home': 0, 'away': 2}",0,2
+Brighton & Hove Albion FC,AFC Bournemouth,2025-02-25T19:30:00Z,FINISHED,"{'home': 2, 'away': 1}",2,1
+Crystal Palace FC,Aston Villa FC,2025-02-25T19:30:00Z,FINISHED,"{'home': 4, 'away': 1}",4,1
+Wolverhampton Wanderers FC,Fulham FC,2025-02-25T19:30:00Z,FINISHED,"{'home': 1, 'away': 2}",1,2
+Chelsea FC,Southampton FC,2025-02-25T20:15:00Z,FINISHED,"{'home': 4, 'away': 0}",4,0
+Nottingham Forest FC,Arsenal FC,2025-02-26T19:30:00Z,FINISHED,"{'home': 0, 'away': 0}",0,0
+Brentford FC,Everton FC,2025-02-26T19:30:00Z,FINISHED,"{'home': 1, 'away': 1}",1,1
+Tottenham Hotspur FC,Manchester City FC,2025-02-26T19:30:00Z,FINISHED,"{'home': 0, 'away': 1}",0,1
+Manchester United FC,Ipswich Town FC,2025-02-26T19:30:00Z,FINISHED,"{'home': 3, 'away': 2}",3,2
+Liverpool FC,Newcastle United FC,2025-02-26T20:15:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
+West Ham United FC,Leicester City FC,2025-02-27T20:00:00Z,FINISHED,"{'home': 2, 'away': 0}",2,0
